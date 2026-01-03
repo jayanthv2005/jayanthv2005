@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I’m Jayanth 👋  
 
-<!--
-**jayanthv2005/jayanthv2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ECE student focused on working close to the hardware — from bare-metal embedded systems
+to RTL design and processor microarchitecture.
 
-Here are some ideas to get you started:
+I enjoy building things from scratch, understanding how they work internally,
+and making sure I can explain every design decision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Areas I work in
+- Embedded systems (STM32, ESP32, RTOS)
+- Bare-metal driver development
+- Verilog HDL and RTL design
+- RISC-V based processor design
+
+📌 Selected projects
+- 5-Stage Pipelined RISC-V Processor
+- RTOS-Based Multi-Sensor Data Acquisition System
+- Bare-Metal I2C Master Driver
+- 32 Bit ALU using Verilog HDL
+
+💬 *“Loyalty is like a two-way street.  
+If I’m asking for it from you, then you’re getting it from me.”* — Harvey Specter
