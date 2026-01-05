@@ -12,7 +12,7 @@ and making sure I can explain every design decision.
 - Verilog HDL and RTL design
 - RISC-V based processor design
 
-📌 Selected projects
+📌 Selected projects(working)
 - 5-Stage Pipelined RISC-V Processor
 - RTOS-Based Multi-Sensor Data Acquisition System
 - Bare-Metal I2C Master Driver
