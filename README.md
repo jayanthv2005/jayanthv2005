@@ -14,9 +14,9 @@ and making sure I can explain every design decision.
 
 📌 Selected projects(working)
 - 5-Stage Pipelined RISC-V Processor
-- RTOS-Based Multi-Sensor Data Acquisition System
-- Bare-Metal I2C Master Driver
-- 32 Bit ALU using Verilog HDL
-
+- RTOS-Driven Low-Power Sensor Fusion Firmware for ARM Cortex-M SoCs
+- Bare-Metal Bootloader & Memory Map Implementation for ARM-Based Embedded Systems
+- Design & Verification of a Configurable AXI-Lite Interconnect for SoC Subsystems
+- 
 💬 *“Loyalty is like a two-way street.  
 If I’m asking for it from you, then you’re getting it from me.”* — Harvey Specter
